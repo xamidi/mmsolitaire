@@ -13,11 +13,11 @@ Created and maintained by Norman Megill http://us.metamath.org/email.html
 
 Revision history:
 
-03-Oct-2022:  Eliminated (sub-)proofs that were already represented in the
-  database by another lexicographically smaller (sub-)string.
-  26 proofs affected: *2.6, *2.67, *2.68, *2.69, *2.85, *2.86, *3.37, *3.4,
-  *4.72, *4.78, *4.79, *5.1, *5.15, *5.18, *5.19, *5.23, *5.24, *5.25,
-  *5.32, *5.35, *5.41, *5.501, *5.53, *5.62, *5.7, and *5.74.
+03-Oct-2022:  Eliminated (sub-)proofs by lexicographically smaller
+  (sub-)strings. 26 proofs affected: *2.6, *2.67, *2.68, *2.69, *2.85,
+  *2.86, *3.37, *3.4, *4.72, *4.78, *4.79, *5.1, *5.15, *5.18, *5.19,
+  *5.23, *5.24, *5.25, *5.32, *5.35, *5.41, *5.501, *5.53, *5.62, *5.7,
+  and *5.74.
 02-Oct-2022:  Shorter proofs of *2.62, *3.31, *3.43, *3.44, *4.14, *4.32,
   *4.39, *4.41, *4.76, *4.77, *4.86, *4.87, *5.31, *5.6, *5.75, meredith,
   and biass were found by Samiro Discher (SD).
