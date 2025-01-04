@@ -1,6 +1,6 @@
 <img align="left" src="img/icon-readme.png">
 
-# @xamidi/mmsolitaire
+# @xamidi/mmsolitaire ([repository](https://github.com/xamidi/mmsolitaire))
 
 Branch of [metamath/mmsolitaire/pmproofs](https://us.metamath.org/mmsolitaire/pmproofs.txt) of the [Metamath Solitaire project](https://us.metamath.org/mmsolitaire/mms.html).
 
